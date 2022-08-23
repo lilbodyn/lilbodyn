@@ -2,7 +2,7 @@
 - 👀 I’m interested in  frontend developcerd
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on site
-- 📫 How to reach me byomelchenko@gmail.com instagram - lilbodyn
+- 📫 How to reach me byomelchenko@gmail.com, instagram - lilbodyn
 
 <!---
 lilbodyn/lilbodyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
